@@ -69,7 +69,7 @@ main {
 
 .foto--principal {
     margin-top: 1px;
-    margin-left: 200px;
+    margin-left: 130px;
     width: 900px;
 }
 
@@ -172,7 +172,7 @@ border-radius: 0px 0px 25px 25px;
 .sobre2{
     position: absolute;
     top: 1300px;
-    left: 507px;
+    left: 463px;
     font-size: 12px;
     width: 320px; 
     height: 200px; 
@@ -188,14 +188,14 @@ border-radius: 0px 0px 25px 25px;
 .img2 {
     position: absolute;
     top: 1080px;
-    left: 470px;
+    left: 430px;
     width: 400px;
 }
 
 .rank3 {
     position: absolute;
     margin-top: 70px;
-    margin-left: 470px;
+    margin-left: 420px;
     height: 15px;
 
     padding-top: 10px;
@@ -224,7 +224,7 @@ border-radius: 0px 0px 25px 25px;
 .sobre3{
     position: absolute;
     top: 1300px;
-    left: 890px;
+    left: 800px;
     font-size: 12px;
     width: 320px; 
     height: 200px; 
@@ -240,14 +240,14 @@ border-radius: 0px 0px 25px 25px;
 .img3 {
     position: absolute;
     top: 1105px;
-    left: 850px;
+    left: 750px;
     width: 400px;
 }
 
 .rank2 {
     position: absolute;
     margin-top: 70px;
-    margin-left: 840px;
+    margin-left: 750px;
     height: 15px;
     padding-top: 10px;
     padding: 0;
@@ -278,7 +278,7 @@ border-radius: 0px 0px 25px 25px;
 .sobre4{
     position: absolute;
     top: 1300px;
-    left: 1290px;
+    left: 1158px;
     font-size: 12px;
     width: 320px; 
     height: 200px; 
@@ -294,14 +294,14 @@ border-radius: 0px 0px 25px 25px;
 .img4 {
     position: absolute;
     top: 1105px;
-    left: 1310px;
+    left: 1175px;
     height: 300px;
 }
 
 .rank6 {
     position: absolute;
     margin-top: 70px;
-    margin-left: 1250px;
+    margin-left: 1120px;
     height: 15px;
 
     padding-top: 10px;
